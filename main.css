@@ -1,0 +1,23 @@
+.main{
+    padding: 10px 0;
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+}
+.main__panel{
+    display: flex;
+    align-items: center;
+    border:1px solid black;
+    padding: 15px;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    gap: 5px 0;
+}
+.form__title{
+    font-size: 26px;
+}
